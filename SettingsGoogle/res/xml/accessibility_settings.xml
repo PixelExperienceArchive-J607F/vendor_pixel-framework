@@ -54,7 +54,7 @@
             android:title="@string/accessibility_screen_magnification_title"
             settings:controller="com.android.settings.accessibility.MagnificationPreferenceController"
             settings:keywords="@string/keywords_magnification" />
-
+			
     </PreferenceCategory>
 
     <PreferenceCategory
@@ -171,6 +171,13 @@
             android:persistent="false"
             android:title="@string/tts_settings_title"
             settings:controller="com.android.settings.language.TtsPreferenceController" />
+            
+        <!-- Statusbar Lyric -->
+        <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="status_bar_show_lyric"
+            android:title="@string/status_bar_show_lyric_title"
+            android:summary="@string/status_bar_show_lyric_summary"
+            android:defaultValue="true" />
 
     </PreferenceCategory>
 

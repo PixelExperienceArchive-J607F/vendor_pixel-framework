@@ -544,6 +544,8 @@ To improve performance, you can set up Face Unlock again in Settings."</string>
     <string name="smart_battery_manager_title">Adaptive preferences</string>
     <string name="smart_battery_title">Adaptive Battery</string>
     <string name="sound_dashboard_summary">Volume, haptics, Do Not Disturb</string>
+    <string name="status_bar_show_lyric_title">Status bar lyric (need App support)</string>
+    <string name="status_bar_show_lyric_summary">Show lyric in status bar. Thanks to @cjybyjk ! (from @exTHmUI)</string>
     <string name="storage_manager_indicator">Smart Storage: ^1</string>
     <string name="suwFontSecondary">google-sans</string>
     <string name="suwFontSecondaryMedium">google-sans-medium</string>

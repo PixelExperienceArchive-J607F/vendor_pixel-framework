@@ -337,6 +337,8 @@
     <string name="smart_battery_manager_title">自适应功能偏好设置</string>
     <string name="smart_battery_title">自适应电池</string>
     <string name="sound_dashboard_summary">音量、触感反馈、勿扰</string>
+    <string name="status_bar_show_lyric_title">状态栏歌词（需要应用支持哦）</string>
+    <string name="status_bar_show_lyric_summary">感谢Shelling的贡献~</string>
     <string name="storage_manager_indicator">智能存储：^1</string>
     <string name="suw_back_button_label">返回</string>
     <string name="suw_limited_warranty_title">有限保修</string>
